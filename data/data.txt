@@ -1,0 +1,1 @@
+# Bitcoin Pricing Data is from 01/01/2000 to 01/01/2023
